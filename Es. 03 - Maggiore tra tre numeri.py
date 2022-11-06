@@ -1,7 +1,7 @@
 """
-Esercizio 1 - Somma di due numeri
+Esercizio 3 - Maggiore tra tre numeri
 
-Descrizione: Dati in input due numeri esegue la somma e restituisce in output il valore.
+Descrizione: Dati in input tre numeri determinare qual'è il maggiore.
 Autore: LEONARDO ESSAM DEI ROSSI (leonardo.deirossi@buonarroti.tn.it)
 
 Parte di teoria: come ulteriore passo in questo esercizio viene introdotta la parola "elif", questa parola fa parte del costrutto di selezione "if"
