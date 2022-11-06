@@ -1,7 +1,7 @@
 """
-Esercizio 1 - Somma di due numeri
+Esercizio 2 - Maggiore tra due numeri
 
-Descrizione: Dati in input due numeri esegue la somma e restituisce in output il valore.
+Descrizione: Dati in input due numeri determinare qual'è il maggiore.
 Autore: LEONARDO ESSAM DEI ROSSI (leonardo.deirossi@buonarroti.tn.it)
 
 Parte di teoria: in questo esercizio viene introdotto il costrutto di selezione (detto comunemente "if"), questa istruzione permette di svolgere un'azione
